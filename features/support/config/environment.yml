@@ -1,0 +1,6 @@
+dev:
+  base_uri: "https://livup-api-dev.herokuapp.com"
+qa:
+  base_uri: "https://livup-api-qa.herokuapp.com"
+prod:
+  base_uri: "https://livup-api-live.herokuapp.com"
